@@ -1,5 +1,3 @@
-# Evan Rauner
-
 SRE by day. Homelab and AI tool tinkerer after hours.
 
 ## Current Interests
