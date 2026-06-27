@@ -9,4 +9,4 @@ SRE by day. Homelab and AI tool tinkerer after hours.
 
 - Tools that make my life easier
 - Practical automation and scripts
-- Homelab infrastructure experiments
+- Homelab infrastructure
