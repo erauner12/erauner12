@@ -2,10 +2,15 @@ SRE by day. Homelab and AI tool tinkerer after hours.
 
 ## Current Interests
 
-- PKM, note-taking, and agentic tools/workflows
+- Agentic tools/workflows
+  - https://repoprompt.com/
+  - https://kagent.dev/
 - Homelab tinkering and automation
   - https://selfh.st/apps/
   - https://kubesearch.dev/
+- PKM/note-taking
+  - https://obsidian.md/
+  - https://docs.appflowy.io/docs
 
 ## What I Like Building
 
